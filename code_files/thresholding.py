@@ -37,3 +37,4 @@ def apply_thresholding(image ,kernel_size ,sobel_threshold=(0,255) ,color_thresh
     return thresholded_img
 
 
+
