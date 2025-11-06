@@ -58,7 +58,7 @@ Developed as part of the **Udacity Self-Driving Car Nanodegree**, the project de
 Advanced-lane-line-detection/
 ├── assets/                          
 │   ├── calibration_test.png        # Sample calibration testing image
-│   ├── project_fullvideo_out.mp4   # Final processed driving video
+│   ├── output_demo.gif             # Final out demo
 │   ├── project_video.mp4           # Raw input driving footage
 ├── calibration_wide/               # Wide-angle calibration images
 ├── code_files/                     
@@ -120,7 +120,7 @@ The system successfully detects lane lines in varied lighting and road condition
 
 📹 **Demo Preview:**  
 <p align="center">
-  <img src="https://github.com/MostafaAshraf612/Advanced-lane-line-detection/blob/main/output_images/test4.jpg" 
+  <img src="https://github.com/MostafaAshraf612/Advanced-lane-line-detection/assets/output_demo.gif" 
        alt="Lane Detection Demo" 
        width="65%" 
        style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
@@ -128,8 +128,8 @@ The system successfully detects lane lines in varied lighting and road condition
 
 <p align="center">
   <strong>View Full Demonstration:</strong><br>
-  <a href="https://github.com/MostafaAshraf612/Advanced-lane-line-detection/blob/main/output_video.mp4" target="_blank">
-    ➡️ Watch Output Video
+  <a href="https://drive.google.com/file/d/1AsWhaPr6UaeM_zECersmS8tjRpthFCxA/view?t=7" target="_blank">
+    ➡️ Watch on Google Drive
   </a>
 </p>
 
