@@ -56,17 +56,19 @@ Developed as part of the **Udacity Self-Driving Car Nanodegree**, the project de
 ## 📁 Repository Structure
 ```
 Advanced-lane-line-detection/
-│
-├── camera_cal/              # Calibration images
-├── test_images/             # Sample road images
-├── output_images/           # Processed outputs
-├── project_video.mp4        # Input driving video
-├── output_video.mp4         # Final annotated video
-│
-├── Advanced-Lane-Line-Detection.ipynb  # Main pipeline notebook
-├── write_up.md              # Project report
-├── README.md
-└── LICENSE
+├── assets/                          
+│   ├── calibration_test.png        # Sample calibration testing image
+│   ├── project_fullvideo_out.mp4   # Final processed driving video
+│   ├── project_video.mp4           # Raw input driving footage
+├── calibration_wide/               # Wide-angle calibration images
+├── code_files/                     
+│   ├── lane_detection_pipeline.py  # Main pipeline runner
+│   ├── camera_calibration.py       # Lane detection functions
+│   ├── plot.py                     # Visualization utilities
+│   ├── perspective_transform.py    # Perspective transform logic
+│   ├── thresholding.py             # Thresholding and filtering
+├── LICENSE                         # MIT License
+└── README.md                       # Project documentation
 
 ```
 ---
