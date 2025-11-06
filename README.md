@@ -91,9 +91,9 @@ Advanced-lane-line-detection/
 git clone https://github.com/MostafaAshraf612/Advanced-lane-line-detection.git
 cd Advanced-lane-line-detection
 ```
-#### 🔧 **Step 2: Install Dependencies**
+#### 🔧 **Step 2: Run the main file **
 ```bash
-pip install -r requirements.txt
+lane_detection_pipeline.py
 ```
 ---
 ## 📈 Algorithm Summary
