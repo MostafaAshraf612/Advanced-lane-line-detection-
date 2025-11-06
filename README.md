@@ -120,12 +120,13 @@ The system successfully detects lane lines in varied lighting and road condition
 
 📹 **Demo Preview:**  
 <p align="center">
-  <img src="https://github.com/MostafaAshraf612/Advanced-lane-line-detection/assets/output_demo.gif" 
-       alt="Lane Detection Demo" 
-       width="65%" 
-       style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <a href="https://drive.google.com/file/d/1AsWhaPr6UaeM_zECersmS8tjRpthFCxA/view?t=7" target="_blank">
+    <img src="https://github.com/MostafaAshraf612/Advanced-lane-line-detection-/blob/main/assets/output_demo.gif" 
+         alt="Highway Path Planner Demo" 
+         width="65%" 
+         style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  </a>
 </p>
-
 <p align="center">
   <strong>View Full Demonstration:</strong><br>
   <a href="https://drive.google.com/file/d/1AsWhaPr6UaeM_zECersmS8tjRpthFCxA/view?t=7" target="_blank">
